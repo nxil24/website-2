@@ -12,7 +12,7 @@ const stages = [
   {
     gif: "15195810",
     title: "Think again 😣",
-    subtitle: "why are u doing this to meeee 😣",
+    subtitle: "why are u doing this to meeee 😭😣",
   },
   {
     gif: "15974530976611222074",
